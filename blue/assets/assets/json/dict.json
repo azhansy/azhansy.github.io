@@ -1,0 +1,176 @@
+{
+  "yesno": [
+    {
+      "id": "6",
+      "createTime": null,
+      "updateTime": null,
+      "dictId": "3",
+      "code": "1",
+      "name": "是",
+      "createrId": null
+    },
+    {
+      "id": "7",
+      "createTime": null,
+      "updateTime": null,
+      "dictId": "3",
+      "code": "0",
+      "name": "否",
+      "createrId": null
+    }
+  ],
+  "deptFun": [
+    {
+      "id": "02a2900d3f7c8a72d05e8309f9b54016",
+      "createTime": null,
+      "updateTime": null,
+      "dictId": "a9cff71a8b2d2bb65234a38e0c31f443",
+      "code": "2",
+      "name": "干活的",
+      "createrId": null
+    },
+    {
+      "id": "ec90507742272342127fbc80fcb7379e",
+      "createTime": null,
+      "updateTime": null,
+      "dictId": "a9cff71a8b2d2bb65234a38e0c31f443",
+      "code": "1",
+      "name": "管事的",
+      "createrId": null
+    }
+  ],
+  "gender": [
+    {
+      "id": "8",
+      "createTime": null,
+      "updateTime": null,
+      "dictId": "4",
+      "code": "1",
+      "name": "男",
+      "createrId": null
+    },
+    {
+      "id": "9",
+      "createTime": null,
+      "updateTime": null,
+      "dictId": "4",
+      "code": "2",
+      "name": "女",
+      "createrId": null
+    }
+  ],
+  "articleStatus": [
+    {
+      "id": "15b694e8d8cd2a7fdfe8b4d57b186343",
+      "createTime": "2021-03-18 09:53:56",
+      "updateTime": "2021-03-18 09:53:56",
+      "dictId": "3098ac0bbe036b038c640e0db1eb574a",
+      "code": "draft",
+      "name": "草稿",
+      "createrId": null
+    },
+    {
+      "id": "867df0c4bbdde6eac4b7e0ace873bbb5",
+      "createTime": "2021-03-18 09:53:56",
+      "updateTime": "2021-03-18 09:53:56",
+      "dictId": "3098ac0bbe036b038c640e0db1eb574a",
+      "code": "public",
+      "name": "公开",
+      "createrId": null
+    },
+    {
+      "id": "ce7cc4b68b3c6f42079c0f4ed641b7aa",
+      "createTime": "2021-03-18 09:53:56",
+      "updateTime": "2021-03-18 09:53:56",
+      "dictId": "3098ac0bbe036b038c640e0db1eb574a",
+      "code": "audit",
+      "name": "审核",
+      "createrId": null
+    }
+  ],
+  "dept": [
+    {
+      "id": "10",
+      "createTime": null,
+      "updateTime": null,
+      "dictId": "5",
+      "code": "1",
+      "name": "技术部",
+      "createrId": null
+    },
+    {
+      "id": "11",
+      "createTime": null,
+      "updateTime": null,
+      "dictId": "5",
+      "code": "2",
+      "name": "产品部",
+      "createrId": null
+    },
+    {
+      "id": "12",
+      "createTime": null,
+      "updateTime": null,
+      "dictId": "5",
+      "code": "3",
+      "name": "销售部",
+      "createrId": null
+    }
+  ],
+  "435435112312": [
+    {
+      "id": "08b694a2689bca55073bdd252d1f46c3",
+      "createTime": "2021-09-09 11:40:48",
+      "updateTime": "2021-09-09 11:40:48",
+      "dictId": "700b40f4c5c4f5e961d2b3f0704cfb51",
+      "code": "34124234312312312312",
+      "name": "234234",
+      "createrId": null
+    },
+    {
+      "id": "5144c7fa0e494bbcc17b0ab26e22e659",
+      "createTime": "2021-09-09 11:40:48",
+      "updateTime": "2021-09-09 11:40:48",
+      "dictId": "700b40f4c5c4f5e961d2b3f0704cfb51",
+      "code": "12333",
+      "name": "23333",
+      "createrId": null
+    },
+    {
+      "id": "65a0adfe06adff86bda1431dfd6272f7",
+      "createTime": "2021-09-09 11:40:48",
+      "updateTime": "2021-09-09 11:40:48",
+      "dictId": "700b40f4c5c4f5e961d2b3f0704cfb51",
+      "code": "3453434534",
+      "name": "345345",
+      "createrId": null
+    },
+    {
+      "id": "71850743da7a359e938fc6fa241af103",
+      "createTime": "2021-09-09 11:40:48",
+      "updateTime": "2021-09-09 11:40:48",
+      "dictId": "700b40f4c5c4f5e961d2b3f0704cfb51",
+      "code": "1234123",
+      "name": "123312",
+      "createrId": null
+    },
+    {
+      "id": "de1a0465c7c7791ee2adb2d7789fa9af",
+      "createTime": "2021-09-09 11:40:48",
+      "updateTime": "2021-09-09 11:40:48",
+      "dictId": "700b40f4c5c4f5e961d2b3f0704cfb51",
+      "code": "22222",
+      "name": "22222",
+      "createrId": null
+    },
+    {
+      "id": "e3e8829068a24c05be45ea091f2a324b",
+      "createTime": "2021-09-09 11:40:48",
+      "updateTime": "2021-09-09 11:40:48",
+      "dictId": "700b40f4c5c4f5e961d2b3f0704cfb51",
+      "code": "345345",
+      "name": "345345",
+      "createrId": null
+    }
+  ]
+}
