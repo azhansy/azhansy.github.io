@@ -1,0 +1,46 @@
+[
+  {
+    "id": "11",
+    "counts": "190",
+    "icon": "0xf1cd",
+    "color": "0xFFF44336",
+    "createTime": "2020-08-22 02:11:26",
+    "updateTime": "2021-08-27 07:42:38",
+    "name": "筹备中",
+    "nameEn": "In preparation",
+    "remark": ""
+  },
+  {
+    "id": "12",
+    "counts": "33",
+    "icon": "0xf44e",
+    "color": "0xFF2196F3",
+    "createTime": "2020-08-22 02:11:26",
+    "updateTime": "2021-08-27 07:42:38",
+    "name": "进行中",
+    "nameEn": "In progress",
+    "remark": ""
+  },
+  {
+    "id": "13",
+    "counts": "58",
+    "icon": "0xf048",
+    "color": "0xFF4CAF50",
+    "createTime": "2020-08-22 02:11:26",
+    "updateTime": "2021-08-27 07:42:38",
+    "name": "已处理",
+    "nameEn": "Processed",
+    "remark": ""
+  },
+  {
+    "id": "14",
+    "counts": "1024",
+    "icon": "0xf022",
+    "color": "0x61000000",
+    "createTime": "2020-08-22 02:11:26",
+    "updateTime": "2021-08-27 07:42:38",
+    "name": "已完成",
+    "nameEn": "Finished",
+    "remark": ""
+  }
+]
